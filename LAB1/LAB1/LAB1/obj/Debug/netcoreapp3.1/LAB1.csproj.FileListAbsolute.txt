@@ -1,0 +1,14 @@
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.exe
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.deps.json
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.runtimeconfig.json
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.runtimeconfig.dev.json
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.dll
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.pdb
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.AssemblyReference.cache
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.AssemblyInfoInputs.cache
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.AssemblyInfo.cs
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.CoreCompileInputs.cache
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.dll
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.pdb
+D:\Users\Pawel.Grygierczyk\Downloads\Programowanie-Obiektowe\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.genruntimeconfig.cache
